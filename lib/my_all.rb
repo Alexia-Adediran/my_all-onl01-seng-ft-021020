@@ -1,5 +1,5 @@
-require 'pry'
+# require 'pry'
 
-def my_all?(collection)
+# def my_all?(collection)
 
-end
+# end
